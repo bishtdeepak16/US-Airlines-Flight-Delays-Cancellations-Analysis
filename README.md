@@ -4,7 +4,7 @@ This project explores 5.3M+ flight records from 2015 to uncover key insights on 
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 Flight delays and cancellations affect millions of travelers every year. Using Python, I performed data cleaning, exploratory data analysis (EDA), and visualization to answer key business questions like:
 
@@ -15,7 +15,7 @@ Flight delays and cancellations affect millions of travelers every year. Using P
   
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 - Spirit Airlines had the highest average departure delay (+20 mins vs industry avg).
 - Hawaiian Airlines had the lowest cancellation rate (<1%).
@@ -25,7 +25,7 @@ Flight delays and cancellations affect millions of travelers every year. Using P
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - Python: Pandas, Numpy
 - Visualization: Matplotlib, Seaborn, Plotly
